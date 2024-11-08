@@ -5,7 +5,7 @@
 
 .contato__titulo,
 .contato__texto {
-    background: var(--azul-degrade);
+    background: var(--roxo);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -23,10 +23,10 @@
 
 .contato__email {
     padding: 1em;
-    border: 1px solid var(--azul);
+    border: 1px solid var(--roxo);
     border-radius: 24px;
     width: 90%;
-    color: var(--azul);
+    color: var(--roxo);
 }
 
 .contato__email::placeholder {
